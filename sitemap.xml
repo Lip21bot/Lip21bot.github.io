@@ -11,6 +11,12 @@
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-11-14T19:02:51+08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/%E5%BB%BA%E7%AB%99/</loc>
+    <lastmod>2024-08-09T17:14:46+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/md%E6%96%87%E6%A1%A3%E6%92%B0%E5%86%99/</loc>
+    <lastmod>2024-08-08T13:55:41+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
