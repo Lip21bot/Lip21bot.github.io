@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>文 on 汪洽一的博客</title>
+    <link>https://lip21bot.github.io/%E6%96%87/</link>
+    <description>Recent content in 文 on 汪洽一的博客</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <lastBuildDate>Fri, 09 Aug 2024 17:14:46 +0000</lastBuildDate>
+    <atom:link href="https://lip21bot.github.io/%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>建站</title>
+      <link>https://lip21bot.github.io/%E6%96%87/%E5%BB%BA%E7%AB%99/</link>
+      <pubDate>Fri, 09 Aug 2024 17:14:46 +0000</pubDate>
+      <guid>https://lip21bot.github.io/%E6%96%87/%E5%BB%BA%E7%AB%99/</guid>
+      <description>&lt;h2 id=&#34;记录&#34;&gt;记录&lt;/h2&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;增加图库功能，测试正常&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;进行基础的配置，写md文档，阅读博客&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;重新部署Hexo&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;部署Hexo失败，git tree有问题，详见&lt;a href=&#34;#1&#34;&gt;复现（link）&lt;/a&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h2 id=&#34;问题&#34;&gt;问题&lt;/h2&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;当输入 hexo g 的时候会出现segmentation fault&lt;/p&gt;&#xA;&lt;p&gt;当输入 hexo d 是会出现一个错误，显示git tree无变化&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
