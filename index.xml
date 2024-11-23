@@ -2,38 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WTF on 汪洽一的博客</title>
-    <link>https://lip21bot.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in WTF on 汪洽一的博客</description>
     <generator>Hugo</generator>
     <language>zh</language>
     <lastBuildDate>Thu, 14 Nov 2024 19:02:51 +0800</lastBuildDate>
-    <atom:link href="https://lip21bot.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://lip21bot.github.io/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Thu, 14 Nov 2024 19:02:51 +0800</pubDate>
-      <guid>https://lip21bot.github.io/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
     </item>
     <item>
+      <title>关于本站</title>
+      <link>http://localhost:1313/%E6%96%87/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99/</link>
+      <pubDate>Fri, 09 Aug 2024 17:34:43 +0000</pubDate>
+      <guid>http://localhost:1313/%E6%96%87/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99/</guid>
+      <description>&lt;h1 id=&#34;前言&#34;&gt;前言&lt;/h1&gt;&#xA;&lt;p&gt;在每个人生的各个阶段，无论是意气风发，还是低落、彷徨。我们都会对各个事物的看法发生改变。有些或许深刻、有些或许浅薄，可是这些必然会影响自己对于往后我们人生的判断。&lt;/p&gt;&#xA;&lt;p&gt;因此，创建博客，目的是记录，为往后的自己提供一些灵感。&lt;/p&gt;&#xA;&lt;p&gt;最重要的是，世界过于复杂，经历的事情必须要提炼出一些价值，保持自己的清醒！&lt;/p&gt;&#xA;&lt;h1 id=&#34;2024年11月18日&#34;&gt;2024年11月18日&lt;/h1&gt;&#xA;&lt;p&gt;总是感到一些无形的压力，设法跳出来付出的代价很大，我常常对自己说，每个人其实手里都拿着利剑，羁绊要通过自己斩断。&lt;/p&gt;&#xA;&lt;p&gt;不知道为何我却感觉渐渐吃力，得到一份工作本以为会给人生做减法，然而却处处都是加法，也逐渐理解朋友所说的一些困扰着他们的事情&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>建站</title>
-      <link>https://lip21bot.github.io/posts/%E5%BB%BA%E7%AB%99/</link>
+      <link>http://localhost:1313/posts/%E5%BB%BA%E7%AB%99/</link>
       <pubDate>Fri, 09 Aug 2024 17:14:46 +0000</pubDate>
-      <guid>https://lip21bot.github.io/posts/%E5%BB%BA%E7%AB%99/</guid>
+      <guid>http://localhost:1313/posts/%E5%BB%BA%E7%AB%99/</guid>
       <description>&lt;h2 id=&#34;记录&#34;&gt;记录&lt;/h2&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;增加图库功能，测试正常&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;进行基础的配置，写md文档，阅读博客&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;重新部署Hexo&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;部署Hexo失败，git tree有问题，详见&lt;a href=&#34;#1&#34;&gt;复现（link）&lt;/a&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h2 id=&#34;问题&#34;&gt;问题&lt;/h2&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;当输入 hexo g 的时候会出现segmentation fault&lt;/p&gt;&#xA;&lt;p&gt;当输入 hexo d 是会出现一个错误，显示git tree无变化&lt;/p&gt;</description>
     </item>
     <item>
       <title>建站</title>
-      <link>https://lip21bot.github.io/%E6%96%87/%E5%BB%BA%E7%AB%99/</link>
+      <link>http://localhost:1313/%E6%96%87/%E5%BB%BA%E7%AB%99/</link>
       <pubDate>Fri, 09 Aug 2024 17:14:46 +0000</pubDate>
-      <guid>https://lip21bot.github.io/%E6%96%87/%E5%BB%BA%E7%AB%99/</guid>
+      <guid>http://localhost:1313/%E6%96%87/%E5%BB%BA%E7%AB%99/</guid>
       <description>&lt;h2 id=&#34;记录&#34;&gt;记录&lt;/h2&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;增加图库功能，测试正常&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;进行基础的配置，写md文档，阅读博客&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;重新部署Hexo&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;部署Hexo失败，git tree有问题，详见&lt;a href=&#34;#1&#34;&gt;复现（link）&lt;/a&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h2 id=&#34;问题&#34;&gt;问题&lt;/h2&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;当输入 hexo g 的时候会出现segmentation fault&lt;/p&gt;&#xA;&lt;p&gt;当输入 hexo d 是会出现一个错误，显示git tree无变化&lt;/p&gt;</description>
     </item>
     <item>
       <title>MD文档撰写</title>
-      <link>https://lip21bot.github.io/posts/md%E6%96%87%E6%A1%A3%E6%92%B0%E5%86%99/</link>
+      <link>http://localhost:1313/posts/md%E6%96%87%E6%A1%A3%E6%92%B0%E5%86%99/</link>
       <pubDate>Thu, 08 Aug 2024 13:55:41 +0000</pubDate>
-      <guid>https://lip21bot.github.io/posts/md%E6%96%87%E6%A1%A3%E6%92%B0%E5%86%99/</guid>
+      <guid>http://localhost:1313/posts/md%E6%96%87%E6%A1%A3%E6%92%B0%E5%86%99/</guid>
       <description>&lt;h2 id=&#34;参考网站&#34;&gt;参考网站&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings&#34;&gt;基本格式和撰写语法-GitHub文档&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
