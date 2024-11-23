@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
+    <loc>https://lip21bot.github.io/posts/my-first-post/</loc>
     <lastmod>2024-11-14T19:02:51+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://lip21bot.github.io/posts/</loc>
     <lastmod>2024-11-14T19:02:51+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://lip21bot.github.io/</loc>
     <lastmod>2024-11-14T19:02:51+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/%E6%96%87/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99/</loc>
+    <loc>https://lip21bot.github.io/%E6%96%87/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99/</loc>
     <lastmod>2024-08-09T17:34:43+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/%E6%96%87/</loc>
+    <loc>https://lip21bot.github.io/%E6%96%87/</loc>
     <lastmod>2024-08-09T17:34:43+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/%E5%BB%BA%E7%AB%99/</loc>
+    <loc>https://lip21bot.github.io/posts/%E5%BB%BA%E7%AB%99/</loc>
     <lastmod>2024-08-09T17:14:46+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/%E6%96%87/%E5%BB%BA%E7%AB%99/</loc>
+    <loc>https://lip21bot.github.io/%E6%96%87/%E5%BB%BA%E7%AB%99/</loc>
     <lastmod>2024-08-09T17:14:46+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/md%E6%96%87%E6%A1%A3%E6%92%B0%E5%86%99/</loc>
+    <loc>https://lip21bot.github.io/posts/md%E6%96%87%E6%A1%A3%E6%92%B0%E5%86%99/</loc>
     <lastmod>2024-08-08T13:55:41+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://lip21bot.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://lip21bot.github.io/tags/</loc>
   </url>
 </urlset>
